@@ -1,0 +1,15 @@
+1.
+2.Server-Side Rendering
+3.esbuild-Based Build System
+4.Experimental Jest Support
+5.Required Inputs
+6.Standalone Project Support
+7.Improvements to Ivy Renderer
+8.RxJS interoperability
+9.Configure Zone.js
+10.esbuild-Based Build System
+11. CSP support for inline-styles
+13.Conclusion
+
+https://www.ifourtechnolab.com/blog/what-s-new-in-angular-16-top-features-to-discover
+https://blog.angular.io/angular-v16-is-here-4d7a28ec680d
